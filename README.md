@@ -1,2 +1,2 @@
-# WORKLOAD-PREDICTION-
-A workload prediction model based on long short-term memory (LSTM
+# WORKLOAD PREDICTION
+A workload prediction model based on long short-term memory (LSTM)
